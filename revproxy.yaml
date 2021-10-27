@@ -1,0 +1,6 @@
+target:
+  base-url: https://www.baidu.com
+  # base-url: http://localhost:8080
+  prefix-to-trim: 
+server:
+  port: 9080
