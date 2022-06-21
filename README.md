@@ -27,3 +27,7 @@ server:
 ```bash
 ./revproxy
 ```
+建议使用`nohup`后台运行，例：
+```bash
+nohup ./revproxy > revproxy-logs.log 2>1&
+```

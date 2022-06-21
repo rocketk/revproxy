@@ -1,0 +1,1 @@
+nohup ./revproxy > revproxy-logs.log 2>1&
